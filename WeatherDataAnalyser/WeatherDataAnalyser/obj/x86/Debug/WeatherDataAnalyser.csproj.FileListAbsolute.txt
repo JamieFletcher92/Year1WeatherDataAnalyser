@@ -1,0 +1,41 @@
+C:\Users\Jamie\Desktop\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\Desktop\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Desktop\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+C:\Users\Jamie\Desktop\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Desktop\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+E:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+E:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+E:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+F:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+F:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+F:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+F:\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\Memory Stick Backup\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Documents\Memory Stick Backup\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+C:\Users\Jamie\Documents\Memory Stick Backup\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Documents\Memory Stick Backup\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+C:\Users\Jamie\Documents\Memory Stick Backup\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jamie\Documents\Memory Stick Backup\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Documents\Memory Stick Backup\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+C:\Users\Jamie\Documents\Memory Stick Backup\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+C:\Users\Jamie\Documents\Memory Stick Backup\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+C:\Users\Jamie\Documents\Memory Stick Backup\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+E:\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+E:\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+E:\Memory Stick\Uni\Computer & Network Technology 1\Assignment\New Assignment Program\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Memory Stick\Uni\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+F:\Memory Stick\Uni\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\Memory Stick\Uni\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+E:\Memory Stick\Uni\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+E:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
+E:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.exe
+E:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\bin\Debug\WeatherDataAnalyser.pdb
+E:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.exe
+H:\University\First Year\Off Memory Stick\First Year\Computer & Network Technology 1\Term 1\Assignment\WeatherDataAnalyser\WeatherDataAnalyser\WeatherDataAnalyser\obj\x86\Debug\WeatherDataAnalyser.pdb
